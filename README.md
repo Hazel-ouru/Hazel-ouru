@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I am Hazel
+##Second year computer science student | Aspiring software developer
+
 
 <!--
 **Hazel-ouru/Hazel-ouru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
